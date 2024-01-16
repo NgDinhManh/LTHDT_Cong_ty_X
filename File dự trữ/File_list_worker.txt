@@ -1,0 +1,83 @@
+
+                   	                         DANH SACH NHAN VIEN VAN PHONG
+Tong so 25 nhan vien.
+ _________________________________________________________________________________________________________________________________________________________ 
+|  Ma nv  |        Ho va ten          |  Ngay sinh   |Gioi tinh|                Que quan              | Ngay vao cong ty | Luong (dong) |     Van phong   |
+|---------+---------------------------+--------------+---------+--------------------------------------+------------------+--------------+-----------------|
+|  OFF021 |             Truong Van An |  12/12/1994  |   Nam   |      Ly Thai To - Hoan Kiem - Ha Noi |    26/ 5/2017    |     12000000 |        Thiet Ke |
+|  OFF004 |            Nguyen Van Anh |  25/10/2000  |   Nam   |         TT Song Thao-Cam Khe-Phu Tho |    14/ 2/2020    |     10000000 |        Thiet Ke |
+|  OFF025 |        Nguyen Thi Van Anh |   6/11/2000  |    Nu   |            Yen Xa - Y Yen - Nam Dinh |    13/ 6/2022    |     11000000 |        Thiet Ke |
+|  OFF014 |            Tran Trong Dat |   3/10/1999  |   Nam   |          Phu Phuc - Ly Nhan - Ha Nam |     4/ 9/2018    |     13000000 |         Y Tuong |
+|  OFF011 |             Mai Tien Dung |  20/11/2000  |   Nam   |      Nga Thanh - Nga Son - Thanh Hoa |    24/ 2/2022    |     11000000 |        Ky Thuat |
+|  OFF019 |              Bui Van Dung |  22/ 4/2001  |   Nam   |       An Hoa - Tam Duong - Vinh Phuc |    12/ 3/2023    |      9000000 |         Y Tuong |
+|  OFF010 |            Nguyen Hong Ha |  10/ 9/1987  |    Nu   |   Khu 4-Thach Son - Lam Thao-Phu Tho |    10/ 4/2019    |     13000000 | Quan ly nhan su |
+|  OFF002 |           Nguyen Thi Hien |  10/10/1991  |    Nu   |       Van Linh - Chi Lang - Lang Son |    19/ 7/2018    |     12000000 | Quan ly nhan su |
+|  OFF007 |           Chu Thi Thu Hue |  10/12/1999  |    Nu   |       Nghi Dien - Nghi Loc - Nghe An |    19/ 7/2018    |     12000000 |         Y Tuong |
+|  OFF003 |           Truong Van Hung |  23/ 6/2002  |   Nam   |      Thanh Uyen - Tam Nong - Phu Tho |    12/ 1/2021    |     14000000 |         Y Tuong |
+|  OFF001 |       Trinh Thi Mai Huong |  15/12/1995  |    Nu   |        Hung Kiet - Cam Khe - Phu Tho |    19/ 7/2018    |     10000000 |         Ke Toan |
+|  OFF005 |    Nguyen Thi Thanh Huong |  23/ 3/1994  |    Nu   |         Khu 1-Tu My-Tam Nong-Phu Tho |    19/ 7/2018    |     10000000 |         Ke Toan |
+|  OFF018 |              Tran Duc Huy |   1/ 3/2000  |   Nam   |      Trung Son - Sam Son - Thanh Hoa |     5/11/2022    |     10000000 |        Ky Thuat |
+|  OFF015 |      Nguyen Thi Ngoc Linh |  12/ 4/2003  |    Nu   |   TT Hoa Son - Lap Thach - Vinh Phuc |    27/ 5/2022    |     10000000 |       Marketing |
+|  OFF017 |          Hoang Thanh Long |   2/ 7/2001  |   Nam   |       Trang Cat - Hai An - Hai Phong |    26/ 1/2023    |      9000000 |       Marketing |
+|  OFF009 |           Nguyen Thi Ngoc |   8/ 6/1994  |    Nu   |Khu 8-Dong Thanh - Thanh Ba - Phu Tho |    19/ 7/2018    |     10000000 |       Marketing |
+|  OFF024 |            Le Thanh Phong |  20/12/1998  |   Nam   |  Hai Dong - TP Mong Cai - Quang Ninh |    20/ 6/2019    |     11000000 |         Y Tuong |
+|  OFF006 |         Nguyen Ngoc Quyet |  20/12/1999  |   Nam   |        Son Hai - Quynh Luu - Nghe An |     2/11/2021    |     13000000 | Quan ly nhan su |
+|  OFF013 |              Trinh Van Sy |   1/10/1996  |   Nam   |      Bung Rieng - Xuyen Loc - Ba Ria |     6/ 2/2020    |     12000000 |        Ky Thuat |
+|  OFF022 |             Pham Thi Than |  23/ 6/1992  |    Nu   |      Dien Hung - Dien Chau - Nghe An |    30/ 5/2017    |     11000000 |        Ky Thuat |
+|  OFF008 |            Tran Duc Thang |   1/ 4/1998  |   Nam   |       Hai Trung - Hai Hau - Nam Dinh |    15/ 4/2020    |     15000000 |        Thiet Ke |
+|  OFF023 |           Nguyen Van Tinh |   1/ 3/1973  |   Nam   |         Truc Bach - Ba Dinh - Ha Noi |    25/ 8/2013    |     15000000 |        Ky Thuat |
+|  OFF016 |        Tran Thi Anh Tuyet |  28/10/1984  |    Nu   |      Thinh Liet - Hoang Mai - Ha Noi |    16/ 2/2016    |     14000000 | Quan ly nhan su |
+|  OFF012 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |          Hong Loc - Loc Ha - Ha Tinh |     3/ 1/2020    |     12000000 |        Thiet Ke |
+|  OFF020 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |     Hai Dong - Mong Cai - Quang Ninh |    23/ 4/2021    |     10000000 |         Ke Toan |
+|_________|___________________________|______________|_________|______________________________________|__________________|______________|_________________|
+
+
+                   	                         DANH SACH CONG NHAN SAN XUAT
+Tong so 25 cong nhan.
+ ____________________________________________________________________________________________________________________________________________________________________________ 
+|  Ma nv  |        Ho va ten          |  Ngay sinh   |Gioi tinh|                Que quan              | Ngay vao cong ty | Luong (dong) | Dinh muc sp (sp/thang) | Ngay nghi |
+|---------+---------------------------+--------------+---------+--------------------------------------+------------------+--------------+------------------------+-----------|
+|  PRO001 |             Nguyen Van An |  22/ 9/1971  |   Nam   |     Hung Yen - Hung Nguyen - Nghe An |     1/ 1/2017    |     12000000 |                   2400 |  Chu Nhat |
+|  PRO012 |             Nguyen Duy An |  13/ 9/2002  |   Nam   |       Quang Hiep - Tu Ky - Hai Duong |    21/ 4/2022    |     10500000 |                   2100 |  Chu Nhat |
+|  PRO002 |              Tran Van Anh |  15/12/1988  |   Nam   |   Hoang Khai - Yen Son - Tuyen Quang |     3/ 2/2016    |     11000000 |                   2200 |  Chu Nhat |
+|  PRO011 |         Nguyen Thi Ha Anh |   1/10/2002  |    Nu   |     Cam Thanh - Cam Pha - Quang Ninh |     5/ 3/2022    |     10500000 |                   2100 |   Thu Bay |
+|  PRO003 |            Huynh Thi Binh |  22/ 9/1980  |    Nu   |       Dien Yen - Dien Chau - Nghe An |     3/ 2/2017    |     10000000 |                   2000 |   Thu Nam |
+|  PRO004 |              Vo Van Chien |  20/ 4/1978  |   Nam   |       Luong Tai - Ban Lam - Hung Yen |     6/ 5/2014    |     11000000 |                   2200 |  Chu Nhat |
+|  PRO005 |             Pham Thi Doan |   8/ 9/1990  |    Nu   |        Dien Ky - Dien Chau - Nghe An |    14/ 6/2014    |     11500000 |                   2300 |   Thu Bay |
+|  PRO023 |              Ngo Minh Duc |  28/ 5/2002  |   Nam   |          Nhat Tay - Nhat Ho - Ha Noi |    12/ 5/2023    |     11000000 |                   2200 |  Chu Nhat |
+|  PRO006 |               Chau Van En |  10/ 2/1976  |   Nam   |     Thieu Vu - Thieu Hoa - Thanh Hoa |     4/ 4/2016    |     11000000 |                   2200 |  Chu Nhat |
+|  PRO014 |            Nguy Minh Hung |   5/ 2/2000  |   Nam   |  Tan Phong - Quang Xuong - Thanh Hoa |     5/11/2021    |     12000000 |                   2400 |  Chu Nhat |
+|  PRO013 |            Pham Quang Huy |  19/ 9/1999  |   Nam   |      Thanh Hai - Thanh Liem - Ha Nam |    14/ 7/2020    |     10500000 |                   2100 |  Chu Nhat |
+|  PRO022 |          Tran Thi My Linh |  31/ 7/2000  |    Nu   |      Tan Thanh - Kim Son - Ninh Binh |    15/ 2/2020    |     11000000 |                   2200 |   Thu Bay |
+|  PRO007 |           Pham Hong Nhung |  24/ 5/1985  |    Nu   |     Quynh Long - Quynh Luu - Nghe An |     5/ 8/2010    |     11500000 |                   2300 |   Thu Sau |
+|  PRO008 |          Duong Thanh Quan |  21/12/1987  |   Nam   |       Hong Thanh - Hong Ha - Yen Bai |     1/ 6/2014    |     10000000 |                   2000 |  Chu Nhat |
+|  PRO020 |          Nguyen Hong Quan |   8/ 3/2003  |   Nam   |Cam Thuong - TP Hai Duong - Hai Duong |    21/ 2/2023    |     10000000 |                   2000 |  Chu Nhat |
+|  PRO016 |          Nguyen Dinh Quoc |  26/10/2001  |   Nam   |       Nghia An - Nghia Dan - Nghe An |    30/ 1/2023    |     10000000 |                   2000 |  Chu Nhat |
+|  PRO009 |               Ngo Van Tam |   8/ 1/1988  |   Nam   |    Quynh Thuan - Quynh Luu - Nghe An |     4/ 6/2016    |     10500000 |                   2100 |  Chu Nhat |
+|  PRO015 |        Nguyen Thi Anh Thu |  29/ 4/1998  |    Nu   |            Ha Cau - Ha Dong - Ha Noi |    23/ 1/2020    |     11000000 |                   2200 |   Thu Nam |
+|  PRO024 |               Bui Sy Tien |  23/ 9/2002  |   Nam   |     Truong Son - Sam Son - Thanh Hoa |    14/ 5/2023    |     10000000 |                   2000 |  Chu Nhat |
+|  PRO019 |            Dinh Khac Tiep |  17/12/2001  |   Nam   |       Chuyen My - Phu Xuyen - Ha Noi |    24/ 1/2022    |     11000000 |                   2200 |  Chu Nhat |
+|  PRO010 |     Nguyen Thi Thuy Trang |  22/ 8/1991  |    Nu   |  Hoang Hung - Hoang Hiep - Bac Giang |    19/11/2016    |     10000000 |                   2000 |    Thu Tu |
+|  PRO025 |        Ta Thi Huyen Trinh |  18/ 9/1999  |    Nu   |         Ho Son - Huu Lung - Lang Son |     7/10/2020    |     11500000 |                   2300 |   Thu Sau |
+|  PRO021 |              Vu Van Trung |  12/ 6/2001  |   Nam   |     Cam Thach - Cam Thuy - Thanh Hoa |    11/11/2022    |     10500000 |                   2100 |  Chu Nhat |
+|  PRO017 |       Nguyen Thi Hong Van |  25/ 8/2000  |    Nu   |      Truc Dai - Truc Ninh - Nam Dinh |    21/ 6/2022    |     10000000 |                   2000 |    Thu Tu |
+|  PRO018 |            Duong Van Viet |   8/ 9/1999  |   Nam   |         Phu Luong - Ha Dong - Ha Noi |     4/12/2021    |     11500000 |                   2300 |  Chu Nhat |
+|_________|___________________________|______________|_________|______________________________________|__________________|______________|________________________|___________|
+
+
+                   	        DANH SACH NHAN VIEN CHUYEN DI
+Tong so 10 nhan vien.
+ _________________________________________________________________________________ 
+|  Ma nv  |        Ho va ten          |  Ngay sinh   |Gioi tinh|  Ngay chuyen di  |
+|---------+---------------------------+--------------+---------+------------------|
+|  OFF021 |             Truong Van An |  12/12/1994  |   Nam   |    14/ 6/2023    |
+|  PRO012 |             Nguyen Duy An |  13/ 9/2002  |   Nam   |    12/ 4/2023    |
+|  PRO005 |             Pham Thi Doan |   8/ 9/1990  |    Nu   |    21/ 3/2023    |
+|  PRO023 |              Ngo Minh Duc |  28/ 5/2002  |   Nam   |    23/ 5/2023    |
+|  OFF003 |           Truong Van Hung |  23/ 6/2002  |   Nam   |    23/ 6/2023    |
+|  OFF006 |         Nguyen Ngoc Quyet |  20/12/1999  |   Nam   |    12/ 4/2023    |
+|  OFF013 |              Trinh Van Sy |   1/10/1996  |   Nam   |     4/ 2/2023    |
+|  PRO024 |               Bui Sy Tien |  23/ 9/2002  |   Nam   |    12/ 2/2023    |
+|  PRO010 |     Nguyen Thi Thuy Trang |  22/ 8/1991  |    Nu   |     4/ 6/2023    |
+|  OFF016 |        Tran Thi Anh Tuyet |  28/10/1984  |    Nu   |    20/ 6/2023    |
+|_________|___________________________|______________|_________|__________________|

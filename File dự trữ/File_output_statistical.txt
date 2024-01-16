@@ -1,0 +1,391 @@
+
+                   	                         DANH SACH NHAN VIEN CONG TY
+Tong so: 50 nhan vien
+ _______________________________________________________________________________________________________________________________________ 
+|  Ma nv  |        Ho va ten          |  Ngay sinh   |Gioi tinh|                Que quan              | Ngay vao cong ty | Luong (dong) |
+|---------+---------------------------+--------------+---------+--------------------------------------+------------------+--------------|
+|  OFF021 |             Truong Van An |  12/12/1994  |   Nam   |      Ly Thai To - Hoan Kiem - Ha Noi |    26/ 5/2017    |     12000000 |
+|  PRO001 |             Nguyen Van An |  22/ 9/1971  |   Nam   |     Hung Yen - Hung Nguyen - Nghe An |     1/ 1/2017    |     12000000 |
+|  PRO012 |             Nguyen Duy An |  13/ 9/2002  |   Nam   |       Quang Hiep - Tu Ky - Hai Duong |    21/ 4/2022    |     10500000 |
+|  OFF004 |            Nguyen Van Anh |  25/10/2000  |   Nam   |         TT Song Thao-Cam Khe-Phu Tho |    14/ 2/2020    |     10000000 |
+|  OFF025 |        Nguyen Thi Van Anh |   6/11/2000  |    Nu   |            Yen Xa - Y Yen - Nam Dinh |    13/ 6/2022    |     11000000 |
+|  PRO002 |              Tran Van Anh |  15/12/1988  |   Nam   |   Hoang Khai - Yen Son - Tuyen Quang |     3/ 2/2016    |     11000000 |
+|  PRO011 |         Nguyen Thi Ha Anh |   1/10/2002  |    Nu   |     Cam Thanh - Cam Pha - Quang Ninh |     5/ 3/2022    |     10500000 |
+|  PRO003 |            Huynh Thi Binh |  22/ 9/1980  |    Nu   |       Dien Yen - Dien Chau - Nghe An |     3/ 2/2017    |     10000000 |
+|  PRO004 |              Vo Van Chien |  20/ 4/1978  |   Nam   |       Luong Tai - Ban Lam - Hung Yen |     6/ 5/2014    |     11000000 |
+|  OFF014 |            Tran Trong Dat |   3/10/1999  |   Nam   |          Phu Phuc - Ly Nhan - Ha Nam |     4/ 9/2018    |     13000000 |
+|  PRO005 |             Pham Thi Doan |   8/ 9/1990  |    Nu   |        Dien Ky - Dien Chau - Nghe An |    14/ 6/2014    |     11500000 |
+|  PRO023 |              Ngo Minh Duc |  28/ 5/2002  |   Nam   |          Nhat Tay - Nhat Ho - Ha Noi |    12/ 5/2023    |     11000000 |
+|  OFF011 |             Mai Tien Dung |  20/11/2000  |   Nam   |      Nga Thanh - Nga Son - Thanh Hoa |    24/ 2/2022    |     11000000 |
+|  OFF019 |              Bui Van Dung |  22/ 4/2001  |   Nam   |       An Hoa - Tam Duong - Vinh Phuc |    12/ 3/2023    |      9000000 |
+|  PRO006 |               Chau Van En |  10/ 2/1976  |   Nam   |     Thieu Vu - Thieu Hoa - Thanh Hoa |     4/ 4/2016    |     11000000 |
+|  OFF010 |            Nguyen Hong Ha |  10/ 9/1987  |    Nu   |   Khu 4-Thach Son - Lam Thao-Phu Tho |    10/ 4/2019    |     13000000 |
+|  OFF002 |           Nguyen Thi Hien |  10/10/1991  |    Nu   |       Van Linh - Chi Lang - Lang Son |    19/ 7/2018    |     12000000 |
+|  OFF007 |           Chu Thi Thu Hue |  10/12/1999  |    Nu   |       Nghi Dien - Nghi Loc - Nghe An |    19/ 7/2018    |     12000000 |
+|  OFF003 |           Truong Van Hung |  23/ 6/2002  |   Nam   |      Thanh Uyen - Tam Nong - Phu Tho |    12/ 1/2021    |     14000000 |
+|  PRO014 |            Nguy Minh Hung |   5/ 2/2000  |   Nam   |  Tan Phong - Quang Xuong - Thanh Hoa |     5/11/2021    |     12000000 |
+|  OFF001 |       Trinh Thi Mai Huong |  15/12/1995  |    Nu   |        Hung Kiet - Cam Khe - Phu Tho |    19/ 7/2018    |     10000000 |
+|  OFF005 |    Nguyen Thi Thanh Huong |  23/ 3/1994  |    Nu   |         Khu 1-Tu My-Tam Nong-Phu Tho |    19/ 7/2018    |     10000000 |
+|  OFF018 |              Tran Duc Huy |   1/ 3/2000  |   Nam   |      Trung Son - Sam Son - Thanh Hoa |     5/11/2022    |     10000000 |
+|  PRO013 |            Pham Quang Huy |  19/ 9/1999  |   Nam   |      Thanh Hai - Thanh Liem - Ha Nam |    14/ 7/2020    |     10500000 |
+|  OFF015 |      Nguyen Thi Ngoc Linh |  12/ 4/2003  |    Nu   |   TT Hoa Son - Lap Thach - Vinh Phuc |    27/ 5/2022    |     10000000 |
+|  PRO022 |          Tran Thi My Linh |  31/ 7/2000  |    Nu   |      Tan Thanh - Kim Son - Ninh Binh |    15/ 2/2020    |     11000000 |
+|  OFF017 |          Hoang Thanh Long |   2/ 7/2001  |   Nam   |       Trang Cat - Hai An - Hai Phong |    26/ 1/2023    |      9000000 |
+|  OFF009 |           Nguyen Thi Ngoc |   8/ 6/1994  |    Nu   |Khu 8-Dong Thanh - Thanh Ba - Phu Tho |    19/ 7/2018    |     10000000 |
+|  PRO007 |           Pham Hong Nhung |  24/ 5/1985  |    Nu   |     Quynh Long - Quynh Luu - Nghe An |     5/ 8/2010    |     11500000 |
+|  OFF024 |            Le Thanh Phong |  20/12/1998  |   Nam   |  Hai Dong - TP Mong Cai - Quang Ninh |    20/ 6/2019    |     11000000 |
+|  PRO008 |          Duong Thanh Quan |  21/12/1987  |   Nam   |       Hong Thanh - Hong Ha - Yen Bai |     1/ 6/2014    |     10000000 |
+|  PRO020 |          Nguyen Hong Quan |   8/ 3/2003  |   Nam   |Cam Thuong - TP Hai Duong - Hai Duong |    21/ 2/2023    |     10000000 |
+|  PRO016 |          Nguyen Dinh Quoc |  26/10/2001  |   Nam   |       Nghia An - Nghia Dan - Nghe An |    30/ 1/2023    |     10000000 |
+|  OFF006 |         Nguyen Ngoc Quyet |  20/12/1999  |   Nam   |        Son Hai - Quynh Luu - Nghe An |     2/11/2021    |     13000000 |
+|  OFF013 |              Trinh Van Sy |   1/10/1996  |   Nam   |      Bung Rieng - Xuyen Loc - Ba Ria |     6/ 2/2020    |     12000000 |
+|  PRO009 |               Ngo Van Tam |   8/ 1/1988  |   Nam   |    Quynh Thuan - Quynh Luu - Nghe An |     4/ 6/2016    |     10500000 |
+|  OFF022 |             Pham Thi Than |  23/ 6/1992  |    Nu   |      Dien Hung - Dien Chau - Nghe An |    30/ 5/2017    |     11000000 |
+|  OFF008 |            Tran Duc Thang |   1/ 4/1998  |   Nam   |       Hai Trung - Hai Hau - Nam Dinh |    15/ 4/2020    |     15000000 |
+|  PRO015 |        Nguyen Thi Anh Thu |  29/ 4/1998  |    Nu   |            Ha Cau - Ha Dong - Ha Noi |    23/ 1/2020    |     11000000 |
+|  PRO024 |               Bui Sy Tien |  23/ 9/2002  |   Nam   |     Truong Son - Sam Son - Thanh Hoa |    14/ 5/2023    |     10000000 |
+|  PRO019 |            Dinh Khac Tiep |  17/12/2001  |   Nam   |       Chuyen My - Phu Xuyen - Ha Noi |    24/ 1/2022    |     11000000 |
+|  OFF023 |           Nguyen Van Tinh |   1/ 3/1973  |   Nam   |         Truc Bach - Ba Dinh - Ha Noi |    25/ 8/2013    |     15000000 |
+|  PRO010 |     Nguyen Thi Thuy Trang |  22/ 8/1991  |    Nu   |  Hoang Hung - Hoang Hiep - Bac Giang |    19/11/2016    |     10000000 |
+|  PRO025 |        Ta Thi Huyen Trinh |  18/ 9/1999  |    Nu   |         Ho Son - Huu Lung - Lang Son |     7/10/2020    |     11500000 |
+|  PRO021 |              Vu Van Trung |  12/ 6/2001  |   Nam   |     Cam Thach - Cam Thuy - Thanh Hoa |    11/11/2022    |     10500000 |
+|  OFF016 |        Tran Thi Anh Tuyet |  28/10/1984  |    Nu   |      Thinh Liet - Hoang Mai - Ha Noi |    16/ 2/2016    |     14000000 |
+|  PRO017 |       Nguyen Thi Hong Van |  25/ 8/2000  |    Nu   |      Truc Dai - Truc Ninh - Nam Dinh |    21/ 6/2022    |     10000000 |
+|  PRO018 |            Duong Van Viet |   8/ 9/1999  |   Nam   |         Phu Luong - Ha Dong - Ha Noi |     4/12/2021    |     11500000 |
+|  OFF012 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |          Hong Loc - Loc Ha - Ha Tinh |     3/ 1/2020    |     12000000 |
+|  OFF020 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |     Hai Dong - Mong Cai - Quang Ninh |    23/ 4/2021    |     10000000 |
+|_________|___________________________|______________|_________|______________________________________|__________________|______________|
+
+
+                   DANH SACH NHAN VIEN NAM
+Tong so: 29 nam
+ ______________________________________________________________ 
+|  Ma nv  |        Ho va ten          |  Ngay sinh   |Gioi tinh|
+|---------+---------------------------+--------------+---------|
+|  PRO001 |             Nguyen Van An |  22/ 9/1971  |   Nam   |
+|  OFF023 |           Nguyen Van Tinh |   1/ 3/1973  |   Nam   |
+|  PRO006 |               Chau Van En |  10/ 2/1976  |   Nam   |
+|  PRO004 |              Vo Van Chien |  20/ 4/1978  |   Nam   |
+|  PRO008 |          Duong Thanh Quan |  21/12/1987  |   Nam   |
+|  PRO009 |               Ngo Van Tam |   8/ 1/1988  |   Nam   |
+|  PRO002 |              Tran Van Anh |  15/12/1988  |   Nam   |
+|  OFF021 |             Truong Van An |  12/12/1994  |   Nam   |
+|  OFF013 |              Trinh Van Sy |   1/10/1996  |   Nam   |
+|  OFF008 |            Tran Duc Thang |   1/ 4/1998  |   Nam   |
+|  OFF024 |            Le Thanh Phong |  20/12/1998  |   Nam   |
+|  PRO018 |            Duong Van Viet |   8/ 9/1999  |   Nam   |
+|  PRO013 |            Pham Quang Huy |  19/ 9/1999  |   Nam   |
+|  OFF014 |            Tran Trong Dat |   3/10/1999  |   Nam   |
+|  OFF006 |         Nguyen Ngoc Quyet |  20/12/1999  |   Nam   |
+|  PRO014 |            Nguy Minh Hung |   5/ 2/2000  |   Nam   |
+|  OFF018 |              Tran Duc Huy |   1/ 3/2000  |   Nam   |
+|  OFF004 |            Nguyen Van Anh |  25/10/2000  |   Nam   |
+|  OFF011 |             Mai Tien Dung |  20/11/2000  |   Nam   |
+|  OFF019 |              Bui Van Dung |  22/ 4/2001  |   Nam   |
+|  PRO021 |              Vu Van Trung |  12/ 6/2001  |   Nam   |
+|  OFF017 |          Hoang Thanh Long |   2/ 7/2001  |   Nam   |
+|  PRO016 |          Nguyen Dinh Quoc |  26/10/2001  |   Nam   |
+|  PRO019 |            Dinh Khac Tiep |  17/12/2001  |   Nam   |
+|  PRO023 |              Ngo Minh Duc |  28/ 5/2002  |   Nam   |
+|  OFF003 |           Truong Van Hung |  23/ 6/2002  |   Nam   |
+|  PRO012 |             Nguyen Duy An |  13/ 9/2002  |   Nam   |
+|  PRO024 |               Bui Sy Tien |  23/ 9/2002  |   Nam   |
+|  PRO020 |          Nguyen Hong Quan |   8/ 3/2003  |   Nam   |
+|_________|___________________________|______________|_________|
+
+                   DANH SACH NHAN VIEN NU
+Tong so: 21 nu
+ ______________________________________________________________ 
+|  Ma nv  |        Ho va ten          |  Ngay sinh   |Gioi tinh|
+|---------+---------------------------+--------------+---------|
+|  PRO003 |            Huynh Thi Binh |  22/ 9/1980  |    Nu   |
+|  OFF016 |        Tran Thi Anh Tuyet |  28/10/1984  |    Nu   |
+|  PRO007 |           Pham Hong Nhung |  24/ 5/1985  |    Nu   |
+|  OFF010 |            Nguyen Hong Ha |  10/ 9/1987  |    Nu   |
+|  PRO005 |             Pham Thi Doan |   8/ 9/1990  |    Nu   |
+|  PRO010 |     Nguyen Thi Thuy Trang |  22/ 8/1991  |    Nu   |
+|  OFF002 |           Nguyen Thi Hien |  10/10/1991  |    Nu   |
+|  OFF022 |             Pham Thi Than |  23/ 6/1992  |    Nu   |
+|  OFF005 |    Nguyen Thi Thanh Huong |  23/ 3/1994  |    Nu   |
+|  OFF009 |           Nguyen Thi Ngoc |   8/ 6/1994  |    Nu   |
+|  OFF001 |       Trinh Thi Mai Huong |  15/12/1995  |    Nu   |
+|  PRO015 |        Nguyen Thi Anh Thu |  29/ 4/1998  |    Nu   |
+|  PRO025 |        Ta Thi Huyen Trinh |  18/ 9/1999  |    Nu   |
+|  OFF007 |           Chu Thi Thu Hue |  10/12/1999  |    Nu   |
+|  OFF012 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |
+|  OFF020 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |
+|  PRO022 |          Tran Thi My Linh |  31/ 7/2000  |    Nu   |
+|  PRO017 |       Nguyen Thi Hong Van |  25/ 8/2000  |    Nu   |
+|  OFF025 |        Nguyen Thi Van Anh |   6/11/2000  |    Nu   |
+|  PRO011 |         Nguyen Thi Ha Anh |   1/10/2002  |    Nu   |
+|  OFF015 |      Nguyen Thi Ngoc Linh |  12/ 4/2003  |    Nu   |
+|_________|___________________________|______________|_________|
+
+
+           DANH SACH NHAN VIEN XEP THEO NGAY SINH
+ ______________________________________________________________ 
+|  Ma nv  |        Ho va ten          |  Ngay sinh   |Gioi tinh|
+|---------+---------------------------+--------------+---------|
+|  PRO001 |             Nguyen Van An |  22/ 9/1971  |   Nam   |
+|  OFF023 |           Nguyen Van Tinh |   1/ 3/1973  |   Nam   |
+|  PRO006 |               Chau Van En |  10/ 2/1976  |   Nam   |
+|  PRO004 |              Vo Van Chien |  20/ 4/1978  |   Nam   |
+|  PRO003 |            Huynh Thi Binh |  22/ 9/1980  |    Nu   |
+|  OFF016 |        Tran Thi Anh Tuyet |  28/10/1984  |    Nu   |
+|  PRO007 |           Pham Hong Nhung |  24/ 5/1985  |    Nu   |
+|  OFF010 |            Nguyen Hong Ha |  10/ 9/1987  |    Nu   |
+|  PRO008 |          Duong Thanh Quan |  21/12/1987  |   Nam   |
+|  PRO009 |               Ngo Van Tam |   8/ 1/1988  |   Nam   |
+|  PRO002 |              Tran Van Anh |  15/12/1988  |   Nam   |
+|  PRO005 |             Pham Thi Doan |   8/ 9/1990  |    Nu   |
+|  PRO010 |     Nguyen Thi Thuy Trang |  22/ 8/1991  |    Nu   |
+|  OFF002 |           Nguyen Thi Hien |  10/10/1991  |    Nu   |
+|  OFF022 |             Pham Thi Than |  23/ 6/1992  |    Nu   |
+|  OFF005 |    Nguyen Thi Thanh Huong |  23/ 3/1994  |    Nu   |
+|  OFF009 |           Nguyen Thi Ngoc |   8/ 6/1994  |    Nu   |
+|  OFF021 |             Truong Van An |  12/12/1994  |   Nam   |
+|  OFF001 |       Trinh Thi Mai Huong |  15/12/1995  |    Nu   |
+|  OFF013 |              Trinh Van Sy |   1/10/1996  |   Nam   |
+|  OFF008 |            Tran Duc Thang |   1/ 4/1998  |   Nam   |
+|  PRO015 |        Nguyen Thi Anh Thu |  29/ 4/1998  |    Nu   |
+|  OFF024 |            Le Thanh Phong |  20/12/1998  |   Nam   |
+|  PRO018 |            Duong Van Viet |   8/ 9/1999  |   Nam   |
+|  PRO025 |        Ta Thi Huyen Trinh |  18/ 9/1999  |    Nu   |
+|  PRO013 |            Pham Quang Huy |  19/ 9/1999  |   Nam   |
+|  OFF014 |            Tran Trong Dat |   3/10/1999  |   Nam   |
+|  OFF007 |           Chu Thi Thu Hue |  10/12/1999  |    Nu   |
+|  OFF006 |         Nguyen Ngoc Quyet |  20/12/1999  |   Nam   |
+|  PRO014 |            Nguy Minh Hung |   5/ 2/2000  |   Nam   |
+|  OFF018 |              Tran Duc Huy |   1/ 3/2000  |   Nam   |
+|  OFF012 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |
+|  OFF020 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |
+|  PRO022 |          Tran Thi My Linh |  31/ 7/2000  |    Nu   |
+|  PRO017 |       Nguyen Thi Hong Van |  25/ 8/2000  |    Nu   |
+|  OFF004 |            Nguyen Van Anh |  25/10/2000  |   Nam   |
+|  OFF025 |        Nguyen Thi Van Anh |   6/11/2000  |    Nu   |
+|  OFF011 |             Mai Tien Dung |  20/11/2000  |   Nam   |
+|  OFF019 |              Bui Van Dung |  22/ 4/2001  |   Nam   |
+|  PRO021 |              Vu Van Trung |  12/ 6/2001  |   Nam   |
+|  OFF017 |          Hoang Thanh Long |   2/ 7/2001  |   Nam   |
+|  PRO016 |          Nguyen Dinh Quoc |  26/10/2001  |   Nam   |
+|  PRO019 |            Dinh Khac Tiep |  17/12/2001  |   Nam   |
+|  PRO023 |              Ngo Minh Duc |  28/ 5/2002  |   Nam   |
+|  OFF003 |           Truong Van Hung |  23/ 6/2002  |   Nam   |
+|  PRO012 |             Nguyen Duy An |  13/ 9/2002  |   Nam   |
+|  PRO024 |               Bui Sy Tien |  23/ 9/2002  |   Nam   |
+|  PRO011 |         Nguyen Thi Ha Anh |   1/10/2002  |    Nu   |
+|  PRO020 |          Nguyen Hong Quan |   8/ 3/2003  |   Nam   |
+|  OFF015 |      Nguyen Thi Ngoc Linh |  12/ 4/2003  |    Nu   |
+|_________|___________________________|______________|_________|
+
+
+                 DANH SACH NHAN VIEN THEO TIEN LUONG
+ _____________________________________________________________________________ 
+|  Ma nv  |        Ho va ten          |  Ngay sinh   |Gioi tinh| Luong (dong) |
+|---------+---------------------------+--------------+---------+--------------|
+|  OFF019 |              Bui Van Dung |  22/ 4/2001  |   Nam   |      9000000 |
+|  OFF017 |          Hoang Thanh Long |   2/ 7/2001  |   Nam   |      9000000 |
+|  OFF004 |            Nguyen Van Anh |  25/10/2000  |   Nam   |     10000000 |
+|  OFF001 |       Trinh Thi Mai Huong |  15/12/1995  |    Nu   |     10000000 |
+|  OFF005 |    Nguyen Thi Thanh Huong |  23/ 3/1994  |    Nu   |     10000000 |
+|  OFF018 |              Tran Duc Huy |   1/ 3/2000  |   Nam   |     10000000 |
+|  OFF015 |      Nguyen Thi Ngoc Linh |  12/ 4/2003  |    Nu   |     10000000 |
+|  OFF009 |           Nguyen Thi Ngoc |   8/ 6/1994  |    Nu   |     10000000 |
+|  OFF020 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |     10000000 |
+|  PRO003 |            Huynh Thi Binh |  22/ 9/1980  |    Nu   |     10000000 |
+|  PRO008 |          Duong Thanh Quan |  21/12/1987  |   Nam   |     10000000 |
+|  PRO020 |          Nguyen Hong Quan |   8/ 3/2003  |   Nam   |     10000000 |
+|  PRO016 |          Nguyen Dinh Quoc |  26/10/2001  |   Nam   |     10000000 |
+|  PRO024 |               Bui Sy Tien |  23/ 9/2002  |   Nam   |     10000000 |
+|  PRO010 |     Nguyen Thi Thuy Trang |  22/ 8/1991  |    Nu   |     10000000 |
+|  PRO017 |       Nguyen Thi Hong Van |  25/ 8/2000  |    Nu   |     10000000 |
+|  PRO012 |             Nguyen Duy An |  13/ 9/2002  |   Nam   |     10500000 |
+|  PRO011 |         Nguyen Thi Ha Anh |   1/10/2002  |    Nu   |     10500000 |
+|  PRO013 |            Pham Quang Huy |  19/ 9/1999  |   Nam   |     10500000 |
+|  PRO009 |               Ngo Van Tam |   8/ 1/1988  |   Nam   |     10500000 |
+|  PRO021 |              Vu Van Trung |  12/ 6/2001  |   Nam   |     10500000 |
+|  OFF025 |        Nguyen Thi Van Anh |   6/11/2000  |    Nu   |     11000000 |
+|  OFF011 |             Mai Tien Dung |  20/11/2000  |   Nam   |     11000000 |
+|  OFF024 |            Le Thanh Phong |  20/12/1998  |   Nam   |     11000000 |
+|  OFF022 |             Pham Thi Than |  23/ 6/1992  |    Nu   |     11000000 |
+|  PRO002 |              Tran Van Anh |  15/12/1988  |   Nam   |     11000000 |
+|  PRO004 |              Vo Van Chien |  20/ 4/1978  |   Nam   |     11000000 |
+|  PRO023 |              Ngo Minh Duc |  28/ 5/2002  |   Nam   |     11000000 |
+|  PRO006 |               Chau Van En |  10/ 2/1976  |   Nam   |     11000000 |
+|  PRO022 |          Tran Thi My Linh |  31/ 7/2000  |    Nu   |     11000000 |
+|  PRO015 |        Nguyen Thi Anh Thu |  29/ 4/1998  |    Nu   |     11000000 |
+|  PRO019 |            Dinh Khac Tiep |  17/12/2001  |   Nam   |     11000000 |
+|  PRO005 |             Pham Thi Doan |   8/ 9/1990  |    Nu   |     11500000 |
+|  PRO007 |           Pham Hong Nhung |  24/ 5/1985  |    Nu   |     11500000 |
+|  PRO025 |        Ta Thi Huyen Trinh |  18/ 9/1999  |    Nu   |     11500000 |
+|  PRO018 |            Duong Van Viet |   8/ 9/1999  |   Nam   |     11500000 |
+|  OFF021 |             Truong Van An |  12/12/1994  |   Nam   |     12000000 |
+|  OFF002 |           Nguyen Thi Hien |  10/10/1991  |    Nu   |     12000000 |
+|  OFF007 |           Chu Thi Thu Hue |  10/12/1999  |    Nu   |     12000000 |
+|  OFF013 |              Trinh Van Sy |   1/10/1996  |   Nam   |     12000000 |
+|  OFF012 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |     12000000 |
+|  PRO001 |             Nguyen Van An |  22/ 9/1971  |   Nam   |     12000000 |
+|  PRO014 |            Nguy Minh Hung |   5/ 2/2000  |   Nam   |     12000000 |
+|  OFF014 |            Tran Trong Dat |   3/10/1999  |   Nam   |     13000000 |
+|  OFF010 |            Nguyen Hong Ha |  10/ 9/1987  |    Nu   |     13000000 |
+|  OFF006 |         Nguyen Ngoc Quyet |  20/12/1999  |   Nam   |     13000000 |
+|  OFF003 |           Truong Van Hung |  23/ 6/2002  |   Nam   |     14000000 |
+|  OFF016 |        Tran Thi Anh Tuyet |  28/10/1984  |    Nu   |     14000000 |
+|  OFF008 |            Tran Duc Thang |   1/ 4/1998  |   Nam   |     15000000 |
+|  OFF023 |           Nguyen Van Tinh |   1/ 3/1973  |   Nam   |     15000000 |
+|_________|___________________________|______________|_________|______________|
+
+
+                 DANH SACH NHAN VIEN THEO VAN PHONG
+ ________________________________________________________________________________ 
+|  Ma nv  |        Ho va ten          |  Ngay sinh   |Gioi tinh|     Van phong   |
+|---------+---------------------------+--------------+---------+-----------------|
+|  OFF010 |            Nguyen Hong Ha |  10/ 9/1987  |    Nu   | Quan ly nhan su |
+|  OFF002 |           Nguyen Thi Hien |  10/10/1991  |    Nu   | Quan ly nhan su |
+|  OFF006 |         Nguyen Ngoc Quyet |  20/12/1999  |   Nam   | Quan ly nhan su |
+|  OFF016 |        Tran Thi Anh Tuyet |  28/10/1984  |    Nu   | Quan ly nhan su |
+|  OFF014 |            Tran Trong Dat |   3/10/1999  |   Nam   |         Y Tuong |
+|  OFF019 |              Bui Van Dung |  22/ 4/2001  |   Nam   |         Y Tuong |
+|  OFF007 |           Chu Thi Thu Hue |  10/12/1999  |    Nu   |         Y Tuong |
+|  OFF003 |           Truong Van Hung |  23/ 6/2002  |   Nam   |         Y Tuong |
+|  OFF024 |            Le Thanh Phong |  20/12/1998  |   Nam   |         Y Tuong |
+|  OFF021 |             Truong Van An |  12/12/1994  |   Nam   |        Thiet Ke |
+|  OFF004 |            Nguyen Van Anh |  25/10/2000  |   Nam   |        Thiet Ke |
+|  OFF025 |        Nguyen Thi Van Anh |   6/11/2000  |    Nu   |        Thiet Ke |
+|  OFF008 |            Tran Duc Thang |   1/ 4/1998  |   Nam   |        Thiet Ke |
+|  OFF012 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |        Thiet Ke |
+|  OFF001 |       Trinh Thi Mai Huong |  15/12/1995  |    Nu   |         Ke Toan |
+|  OFF005 |    Nguyen Thi Thanh Huong |  23/ 3/1994  |    Nu   |         Ke Toan |
+|  OFF020 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |         Ke Toan |
+|  OFF015 |      Nguyen Thi Ngoc Linh |  12/ 4/2003  |    Nu   |       Marketing |
+|  OFF017 |          Hoang Thanh Long |   2/ 7/2001  |   Nam   |       Marketing |
+|  OFF009 |           Nguyen Thi Ngoc |   8/ 6/1994  |    Nu   |       Marketing |
+|  OFF011 |             Mai Tien Dung |  20/11/2000  |   Nam   |        Ky Thuat |
+|  OFF018 |              Tran Duc Huy |   1/ 3/2000  |   Nam   |        Ky Thuat |
+|  OFF013 |              Trinh Van Sy |   1/10/1996  |   Nam   |        Ky Thuat |
+|  OFF022 |             Pham Thi Than |  23/ 6/1992  |    Nu   |        Ky Thuat |
+|  OFF023 |           Nguyen Van Tinh |   1/ 3/1973  |   Nam   |        Ky Thuat |
+|_________|___________________________|______________|_________|_________________|
+
+
+                  DANH SACH NHAN VIEN THEO NGAY VAO CONG TY
+ _________________________________________________________________________________ 
+|  Ma nv  |        Ho va ten          |  Ngay sinh   |Gioi tinh| Ngay vao cong ty |
+|---------+---------------------------+--------------+---------+------------------|
+|  PRO007 |           Pham Hong Nhung |  24/ 5/1985  |    Nu   |     5/ 8/2010    |
+|  OFF023 |           Nguyen Van Tinh |   1/ 3/1973  |   Nam   |    25/ 8/2013    |
+|  PRO004 |              Vo Van Chien |  20/ 4/1978  |   Nam   |     6/ 5/2014    |
+|  PRO008 |          Duong Thanh Quan |  21/12/1987  |   Nam   |     1/ 6/2014    |
+|  PRO005 |             Pham Thi Doan |   8/ 9/1990  |    Nu   |    14/ 6/2014    |
+|  PRO002 |              Tran Van Anh |  15/12/1988  |   Nam   |     3/ 2/2016    |
+|  OFF016 |        Tran Thi Anh Tuyet |  28/10/1984  |    Nu   |    16/ 2/2016    |
+|  PRO006 |               Chau Van En |  10/ 2/1976  |   Nam   |     4/ 4/2016    |
+|  PRO009 |               Ngo Van Tam |   8/ 1/1988  |   Nam   |     4/ 6/2016    |
+|  PRO010 |     Nguyen Thi Thuy Trang |  22/ 8/1991  |    Nu   |    19/11/2016    |
+|  PRO001 |             Nguyen Van An |  22/ 9/1971  |   Nam   |     1/ 1/2017    |
+|  PRO003 |            Huynh Thi Binh |  22/ 9/1980  |    Nu   |     3/ 2/2017    |
+|  OFF021 |             Truong Van An |  12/12/1994  |   Nam   |    26/ 5/2017    |
+|  OFF022 |             Pham Thi Than |  23/ 6/1992  |    Nu   |    30/ 5/2017    |
+|  OFF002 |           Nguyen Thi Hien |  10/10/1991  |    Nu   |    19/ 7/2018    |
+|  OFF007 |           Chu Thi Thu Hue |  10/12/1999  |    Nu   |    19/ 7/2018    |
+|  OFF001 |       Trinh Thi Mai Huong |  15/12/1995  |    Nu   |    19/ 7/2018    |
+|  OFF005 |    Nguyen Thi Thanh Huong |  23/ 3/1994  |    Nu   |    19/ 7/2018    |
+|  OFF009 |           Nguyen Thi Ngoc |   8/ 6/1994  |    Nu   |    19/ 7/2018    |
+|  OFF014 |            Tran Trong Dat |   3/10/1999  |   Nam   |     4/ 9/2018    |
+|  OFF010 |            Nguyen Hong Ha |  10/ 9/1987  |    Nu   |    10/ 4/2019    |
+|  OFF024 |            Le Thanh Phong |  20/12/1998  |   Nam   |    20/ 6/2019    |
+|  OFF012 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |     3/ 1/2020    |
+|  PRO015 |        Nguyen Thi Anh Thu |  29/ 4/1998  |    Nu   |    23/ 1/2020    |
+|  OFF013 |              Trinh Van Sy |   1/10/1996  |   Nam   |     6/ 2/2020    |
+|  OFF004 |            Nguyen Van Anh |  25/10/2000  |   Nam   |    14/ 2/2020    |
+|  PRO022 |          Tran Thi My Linh |  31/ 7/2000  |    Nu   |    15/ 2/2020    |
+|  OFF008 |            Tran Duc Thang |   1/ 4/1998  |   Nam   |    15/ 4/2020    |
+|  PRO013 |            Pham Quang Huy |  19/ 9/1999  |   Nam   |    14/ 7/2020    |
+|  PRO025 |        Ta Thi Huyen Trinh |  18/ 9/1999  |    Nu   |     7/10/2020    |
+|  OFF003 |           Truong Van Hung |  23/ 6/2002  |   Nam   |    12/ 1/2021    |
+|  OFF020 |            Pham Thi Nhu Y |  15/ 3/2000  |    Nu   |    23/ 4/2021    |
+|  OFF006 |         Nguyen Ngoc Quyet |  20/12/1999  |   Nam   |     2/11/2021    |
+|  PRO014 |            Nguy Minh Hung |   5/ 2/2000  |   Nam   |     5/11/2021    |
+|  PRO018 |            Duong Van Viet |   8/ 9/1999  |   Nam   |     4/12/2021    |
+|  PRO019 |            Dinh Khac Tiep |  17/12/2001  |   Nam   |    24/ 1/2022    |
+|  OFF011 |             Mai Tien Dung |  20/11/2000  |   Nam   |    24/ 2/2022    |
+|  PRO011 |         Nguyen Thi Ha Anh |   1/10/2002  |    Nu   |     5/ 3/2022    |
+|  PRO012 |             Nguyen Duy An |  13/ 9/2002  |   Nam   |    21/ 4/2022    |
+|  OFF015 |      Nguyen Thi Ngoc Linh |  12/ 4/2003  |    Nu   |    27/ 5/2022    |
+|  OFF025 |        Nguyen Thi Van Anh |   6/11/2000  |    Nu   |    13/ 6/2022    |
+|  PRO017 |       Nguyen Thi Hong Van |  25/ 8/2000  |    Nu   |    21/ 6/2022    |
+|  OFF018 |              Tran Duc Huy |   1/ 3/2000  |   Nam   |     5/11/2022    |
+|  PRO021 |              Vu Van Trung |  12/ 6/2001  |   Nam   |    11/11/2022    |
+|  OFF017 |          Hoang Thanh Long |   2/ 7/2001  |   Nam   |    26/ 1/2023    |
+|  PRO016 |          Nguyen Dinh Quoc |  26/10/2001  |   Nam   |    30/ 1/2023    |
+|  PRO020 |          Nguyen Hong Quan |   8/ 3/2003  |   Nam   |    21/ 2/2023    |
+|  OFF019 |              Bui Van Dung |  22/ 4/2001  |   Nam   |    12/ 3/2023    |
+|  PRO023 |              Ngo Minh Duc |  28/ 5/2002  |   Nam   |    12/ 5/2023    |
+|  PRO024 |               Bui Sy Tien |  23/ 9/2002  |   Nam   |    14/ 5/2023    |
+|_________|___________________________|______________|_________|__________________|
+
+
+                    DANH SACH CONG NHAN THEO NGAY NGHI
+ __________________________________________________________________________ 
+|  Ma nv  |        Ho va ten          |  Ngay sinh   |Gioi tinh| Ngay nghi |
+|---------+---------------------------+--------------+---------+-----------|
+|  PRO010 |     Nguyen Thi Thuy Trang |  22/ 8/1991  |    Nu   |    Thu Tu |
+|  PRO017 |       Nguyen Thi Hong Van |  25/ 8/2000  |    Nu   |    Thu Tu |
+|  PRO003 |            Huynh Thi Binh |  22/ 9/1980  |    Nu   |   Thu Nam |
+|  PRO015 |        Nguyen Thi Anh Thu |  29/ 4/1998  |    Nu   |   Thu Nam |
+|  PRO007 |           Pham Hong Nhung |  24/ 5/1985  |    Nu   |   Thu Sau |
+|  PRO025 |        Ta Thi Huyen Trinh |  18/ 9/1999  |    Nu   |   Thu Sau |
+|  PRO011 |         Nguyen Thi Ha Anh |   1/10/2002  |    Nu   |   Thu Bay |
+|  PRO005 |             Pham Thi Doan |   8/ 9/1990  |    Nu   |   Thu Bay |
+|  PRO022 |          Tran Thi My Linh |  31/ 7/2000  |    Nu   |   Thu Bay |
+|  PRO001 |             Nguyen Van An |  22/ 9/1971  |   Nam   |  Chu Nhat |
+|  PRO012 |             Nguyen Duy An |  13/ 9/2002  |   Nam   |  Chu Nhat |
+|  PRO002 |              Tran Van Anh |  15/12/1988  |   Nam   |  Chu Nhat |
+|  PRO004 |              Vo Van Chien |  20/ 4/1978  |   Nam   |  Chu Nhat |
+|  PRO023 |              Ngo Minh Duc |  28/ 5/2002  |   Nam   |  Chu Nhat |
+|  PRO006 |               Chau Van En |  10/ 2/1976  |   Nam   |  Chu Nhat |
+|  PRO014 |            Nguy Minh Hung |   5/ 2/2000  |   Nam   |  Chu Nhat |
+|  PRO013 |            Pham Quang Huy |  19/ 9/1999  |   Nam   |  Chu Nhat |
+|  PRO008 |          Duong Thanh Quan |  21/12/1987  |   Nam   |  Chu Nhat |
+|  PRO020 |          Nguyen Hong Quan |   8/ 3/2003  |   Nam   |  Chu Nhat |
+|  PRO016 |          Nguyen Dinh Quoc |  26/10/2001  |   Nam   |  Chu Nhat |
+|  PRO009 |               Ngo Van Tam |   8/ 1/1988  |   Nam   |  Chu Nhat |
+|  PRO024 |               Bui Sy Tien |  23/ 9/2002  |   Nam   |  Chu Nhat |
+|  PRO019 |            Dinh Khac Tiep |  17/12/2001  |   Nam   |  Chu Nhat |
+|  PRO021 |              Vu Van Trung |  12/ 6/2001  |   Nam   |  Chu Nhat |
+|  PRO018 |            Duong Van Viet |   8/ 9/1999  |   Nam   |  Chu Nhat |
+|_________|___________________________|______________|_________|___________|
+
+
+                  DANH SACH NGAY NGHI CONG NHAN NU
+ __________________________________________________________________________ 
+|  Ma nv  |        Ho va ten          |  Ngay sinh   |Gioi tinh| Ngay nghi |
+|---------+---------------------------+--------------+---------+-----------|
+|  PRO011 |         Nguyen Thi Ha Anh |   1/10/2002  |    Nu   |   Thu Bay |
+|  PRO003 |            Huynh Thi Binh |  22/ 9/1980  |    Nu   |   Thu Nam |
+|  PRO005 |             Pham Thi Doan |   8/ 9/1990  |    Nu   |   Thu Bay |
+|  PRO022 |          Tran Thi My Linh |  31/ 7/2000  |    Nu   |   Thu Bay |
+|  PRO007 |           Pham Hong Nhung |  24/ 5/1985  |    Nu   |   Thu Sau |
+|  PRO015 |        Nguyen Thi Anh Thu |  29/ 4/1998  |    Nu   |   Thu Nam |
+|  PRO010 |     Nguyen Thi Thuy Trang |  22/ 8/1991  |    Nu   |    Thu Tu |
+|  PRO025 |        Ta Thi Huyen Trinh |  18/ 9/1999  |    Nu   |   Thu Sau |
+|  PRO017 |       Nguyen Thi Hong Van |  25/ 8/2000  |    Nu   |    Thu Tu |
+|_________|___________________________|______________|_________|___________|
+
+
+                   	        DANH SACH NHAN VIEN CHUYEN DI
+ _________________________________________________________________________________ 
+|  Ma nv  |        Ho va ten          |  Ngay sinh   |Gioi tinh|  Ngay chuyen di  |
+|---------+---------------------------+--------------+---------+------------------|
+|  OFF021 |             Truong Van An |  12/12/1994  |   Nam   |    14/ 6/2023    |
+|  PRO012 |             Nguyen Duy An |  13/ 9/2002  |   Nam   |    12/ 4/2023    |
+|  PRO005 |             Pham Thi Doan |   8/ 9/1990  |    Nu   |    21/ 3/2023    |
+|  PRO023 |              Ngo Minh Duc |  28/ 5/2002  |   Nam   |    23/ 5/2023    |
+|  OFF003 |           Truong Van Hung |  23/ 6/2002  |   Nam   |    23/ 6/2023    |
+|  OFF006 |         Nguyen Ngoc Quyet |  20/12/1999  |   Nam   |    12/ 4/2023    |
+|  OFF013 |              Trinh Van Sy |   1/10/1996  |   Nam   |     4/ 2/2023    |
+|  PRO024 |               Bui Sy Tien |  23/ 9/2002  |   Nam   |    12/ 2/2023    |
+|  PRO010 |     Nguyen Thi Thuy Trang |  22/ 8/1991  |    Nu   |     4/ 6/2023    |
+|  OFF016 |        Tran Thi Anh Tuyet |  28/10/1984  |    Nu   |    20/ 6/2023    |
+|_________|___________________________|______________|_________|__________________|
+

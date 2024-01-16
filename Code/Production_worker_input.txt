@@ -1,0 +1,182 @@
+25
+20
+PRO001
+Nguyen Van An
+22 9 1971
+Nam
+Hung Yen - Hung Nguyen - Nghe An
+1 1 2017
+11500000
+2300
+Chu Nhat
+PRO002
+Tran Van Anh
+15 12 1988
+Nam
+Hoang Khai - Yen Son - Tuyen Quang
+3 2 2016
+11000000
+2200
+Chu Nhat
+PRO011
+Nguyen Thi Ha Anh
+1 10 2002
+Nu
+Cam Thanh - Cam Pha - Quang Ninh
+5 3 2022
+10500000
+2100
+Thu Bay
+PRO003
+Huynh Thi Binh
+22 9 1980
+Nu
+Dien Yen - Dien Chau - Nghe An
+3 2 2017
+10000000
+2000
+Thu Nam
+PRO004
+Vo Van Chien
+20 4 1978
+Nam
+Luong Tai - Ban Lam - Hung Yen
+6 5 2014
+11000000
+2200
+Chu Nhat
+PRO006
+Chau Van En
+10 2 1976
+Nam
+Thieu Vu - Thieu Hoa - Thanh Hoa
+4 4 2016
+11000000
+2200
+Chu Nhat
+PRO014
+Nguy Minh Hung
+5 2 2000
+Nam
+Tan Phong - Quang Xuong - Thanh Hoa
+5 11 2021
+12000000
+2400
+Chu Nhat
+PRO013
+Pham Quang Huy
+19 9 1999
+Nam
+Thanh Hai - Thanh Liem - Ha Nam
+14 7 2020
+10500000
+2100
+Chu Nhat
+PRO022
+Tran Thi My Linh
+31 7 2000
+Nu
+Tan Thanh - Kim Son - Ninh Binh
+15 2 2020
+11000000
+2200
+Thu Bay
+PRO007
+Pham Hong Nhung
+24 5 1985
+Nu
+Quynh Long - Quynh Luu - Nghe An
+5 8 2010
+11500000
+2300
+Thu Sau
+PRO008
+Duong Thanh Quan
+21 12 1987
+Nam
+Hong Thanh - Hong Ha - Yen Bai
+1 6 2014
+10000000
+2000
+Chu Nhat
+PRO020
+Nguyen Hong Quan
+8 3 2003
+Nam
+Cam Thuong - TP Hai Duong - Hai Duong
+21 2 2023
+10000000
+2000
+Chu Nhat
+PRO016
+Nguyen Dinh Quoc
+26 10 2001
+Nam
+Nghia An - Nghia Dan - Nghe An
+30 1 2023
+10000000
+2000
+Chu Nhat
+PRO009
+Ngo Van Tam
+8 1 1988
+Nam
+Quynh Thuan - Quynh Luu - Nghe An
+4 6 2016
+10500000
+2100
+Chu Nhat
+PRO015
+Nguyen Thi Anh Thu
+29 4 1998
+Nu
+Ha Cau - Ha Dong - Ha Noi
+23 1 2020
+11000000
+2200
+Thu Nam
+PRO019
+Dinh Khac Tiep
+17 12 2001
+Nam
+Chuyen My - Phu Xuyen - Ha Noi
+24 1 2022
+11000000
+2200
+Chu Nhat
+PRO025
+Ta Thi Huyen Trinh
+18 9 1999
+Nu
+Ho Son - Huu Lung - Lang Son
+7 10 2020
+11500000
+2300
+Thu Sau
+PRO021
+Vu Van Trung
+12 6 2001
+Nam
+Cam Thach - Cam Thuy - Thanh Hoa
+11 11 2022
+10500000
+2100
+Chu Nhat
+PRO017
+Nguyen Thi Hong Van
+25 8 2000
+Nu
+Truc Dai - Truc Ninh - Nam Dinh
+21 6 2022
+10000000
+2000
+Thu Tu
+PRO018
+Duong Van Viet
+8 9 1999
+Nam
+Phu Luong - Ha Dong - Ha Noi
+4 12 2021
+11500000
+2300
+Chu Nhat

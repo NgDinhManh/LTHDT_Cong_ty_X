@@ -1,0 +1,202 @@
+25
+25
+OFF021
+Truong Van An
+12 12 1994
+Nam
+Ly Thai To - Hoan Kiem - Ha Noi
+26 5 2017
+12000000
+Thiet Ke
+OFF004
+Nguyen Van Anh
+25 10 2000
+Nam
+TT Song Thao-Cam Khe-Phu Tho
+14 2 2020
+10000000
+Thiet Ke
+OFF025
+Nguyen Thi Van Anh
+6 11 2000
+Nu
+Yen Xa - Y Yen - Nam Dinh
+13 6 2022
+11000000
+Thiet Ke
+OFF014
+Tran Trong Dat
+3 10 1999
+Nam
+Phu Phuc - Ly Nhan - Ha Nam
+4 9 2018
+13000000
+Y Tuong
+OFF011
+Mai Tien Dung
+20 11 2000
+Nam
+Nga Thanh - Nga Son - Thanh Hoa
+24 2 2022
+11000000
+Ky Thuat
+OFF019
+Bui Van Dung
+22 4 2001
+Nam
+An Hoa - Tam Duong - Vinh Phuc
+12 3 2023
+9000000
+Y Tuong
+OFF010
+Nguyen Hong Ha
+10 9 1987
+Nu
+Khu 4-Thach Son - Lam Thao-Phu Tho
+10 4 2019
+13000000
+Quan ly nhan su
+OFF002
+Nguyen Thi Hien
+10 10 1991
+Nu
+Van Linh - Chi Lang - Lang Son
+19 7 2018
+12000000
+Quan ly nhan su
+OFF007
+Chu Thi Thu Hue
+10 12 1999
+Nu
+Nghi Dien - Nghi Loc - Nghe An
+19 7 2018
+12000000
+Y Tuong
+OFF003
+Truong Van Hung
+23 6 2002
+Nam
+Thanh Uyen - Tam Nong - Phu Tho
+12 1 2021
+14000000
+Y Tuong
+OFF001
+Trinh Thi Mai Huong
+15 12 1995
+Nu
+Hung Kiet - Cam Khe - Phu Tho
+19 7 2018
+10000000
+Ke Toan
+OFF005
+Nguyen Thi Thanh Huong
+23 3 1994
+Nu
+Khu 1-Tu My-Tam Nong-Phu Tho
+19 7 2018
+10000000
+Ke Toan
+OFF018
+Tran Duc Huy
+1 3 2000
+Nam
+Trung Son - Sam Son - Thanh Hoa
+5 11 2022
+10000000
+Ky Thuat
+OFF015
+Nguyen Thi Ngoc Linh
+12 4 2003
+Nu
+TT Hoa Son - Lap Thach - Vinh Phuc
+27 5 2022
+10000000
+Marketing
+OFF017
+Hoang Thanh Long
+2 7 2001
+Nam
+Trang Cat - Hai An - Hai Phong
+26 1 2023
+9000000
+Marketing
+OFF009
+Nguyen Thi Ngoc
+8 6 1994
+Nu
+Khu 8-Dong Thanh - Thanh Ba - Phu Tho
+19 7 2018
+10000000
+Marketing
+OFF024
+Le Thanh Phong
+20 12 1998
+Nam
+Hai Dong - TP Mong Cai - Quang Ninh
+20 6 2019
+11000000
+Y Tuong
+OFF006
+Nguyen Ngoc Quyet
+20 12 1999
+Nam
+Son Hai - Quynh Luu - Nghe An
+2 11 2021
+13000000
+Quan ly nhan su
+OFF013
+Trinh Van Sy
+1 10 1996
+Nam
+Bung Rieng - Xuyen Loc - Ba Ria
+6 2 2020
+12000000
+Ky Thuat
+OFF022
+Pham Thi Than
+23 6 1992
+Nu
+Dien Hung - Dien Chau - Nghe An
+30 5 2017
+11000000
+Ky Thuat
+OFF008
+Tran Duc Thang
+1 4 1998
+Nam
+Hai Trung - Hai Hau - Nam Dinh
+15 4 2020
+15000000
+Thiet Ke
+OFF023
+Nguyen Van Tinh
+1 3 1973
+Nam
+Truc Bach - Ba Dinh - Ha Noi
+25 8 2013
+15000000
+Ky Thuat
+OFF016
+Tran Thi Anh Tuyet
+28 10 1984
+Nu
+Thinh Liet - Hoang Mai - Ha Noi
+16 2 2016
+14000000
+Quan ly nhan su
+OFF012
+Pham Thi Nhu Y
+15 3 2000
+Nu
+Hong Loc - Loc Ha - Ha Tinh
+3 1 2020
+12000000
+Thiet Ke
+OFF020
+Pham Thi Nhu Y
+15 3 2000
+Nu
+Hai Dong - Mong Cai - Quang Ninh
+23 4 2021
+10000000
+Ke Toan
